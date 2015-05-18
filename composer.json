@@ -1,0 +1,11 @@
+{
+	"name": "F3Community/fatfree-composer-app",
+	"description": "base composer package using fat-free framework",
+	"config": {
+		"vendor-dir": "lib"
+	},
+	"require": {
+		"bcosca/fatfree-core": "dev-master",
+		"respect/validation": "^0.9.1"
+	}
+}
